@@ -80,6 +80,16 @@
                 android:layout_height="wrap_content"
                 />
 
+        <com.aokp.romcontrol.widgets.DeveloperPreference
+                android:title="inphamous36"
+                aokp:nameDev="inphamous36"
+                aokp:twitterHandle="IOKP_ROM"
+                aokp:githubLink="@string/github_inphamous36"
+                aokp:emailDev="ben.hickerson36@gmail.com"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
         
     </LinearLayout>
 </ScrollView>
