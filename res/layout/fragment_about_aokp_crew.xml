@@ -91,5 +91,16 @@
                 android:layout_height="wrap_content"
                 />
         
+        <com.aokp.romcontrol.widgets.DeveloperPreference
+                android:title="Jovy23"
+                aokp:nameDev="Jovy23"
+                aokp:twitterHandle="IOKP_ROM"
+                aokp:githubLink="@string/github_jovy23"
+                aokp:emailDev="jovyflow3@gmail.com"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
     </LinearLayout>
 </ScrollView>
